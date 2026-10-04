@@ -1,0 +1,7 @@
+# Archivos temporales de SolidWorks
+~$*
+*.bak
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
